@@ -1,0 +1,2 @@
+# osos
+osos=life
